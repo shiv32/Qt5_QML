@@ -34,8 +34,6 @@ https://qmlbook.github.io/<br/>
 YouTube link --><br/>
 https://www.youtube.com/watch?v=KkMXdSErTpM&list=PLwyfE16Mkbx58rbWFAEk6Qm5PpDKqOtzp<br/>
 
-YouTube link --><br/>
-https://www.youtube.com/watch?v=KkMXdSErTpM&list=PLwyfE16Mkbx58rbWFAEk6Qm5PpDKqOtzp<br/>
 
 
 
