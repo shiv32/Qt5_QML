@@ -1,0 +1,38 @@
+=======================================================
+…or create a new repository on the command line
+
+echo "# Qt5_QML" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shiv32/Qt5_QML.git
+git push -u origin main
+
+…or push an existing repository from the command
+
+git remote add origin https://github.com/shiv32/Qt5_QML.git
+git branch -M main
+git push -u origin main
+
+==================================================
+make tar.gz file to upload folder -->
+
+tar cvzf foldername.tar.gz foldername
+
+for extract tar.gz -->
+tar xvzf foldername.tar.gz
+==================================================
+first pull before push after commit for existing projects -->
+git pull
+
+
+eg.<br/>
+git init
+git add .
+git commit -m "first commit"
+git pull
+git branch -M main
+git remote add origin https://github.com/shiv32/Qt5_QML.git
+git push -u origin main
+=================================================
