@@ -25,7 +25,7 @@ tar cvzf foldername.tar.gz foldername<br/>
 for extract tar.gz --><br/>
 tar xvzf foldername.tar.gz<br/>
 ==================================================<br/>
-first pull before push --><br/>
+first pull before push after commit for existing projects --><br/>
 git pull<br/>
 =================================================<br/>
 ref --><br/>
