@@ -25,7 +25,9 @@ tar cvzf foldername.tar.gz foldername<br/>
 for extract tar.gz --><br/>
 tar xvzf foldername.tar.gz<br/>
 ==================================================<br/>
-
+first pull before push --><br/>
+git pull<br/>
+=================================================<br/>
 ref --><br/>
 https://doc.qt.io/qt-5/qtqml-documents-topic.html<br/>
 https://doc.qt.io/qt-5/qtqml-index.html<br/>
