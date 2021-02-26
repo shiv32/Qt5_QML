@@ -26,8 +26,7 @@ tar xvzf foldername.tar.gz
 first pull before push after commit for existing projects -->
 git pull
 
-
-eg.<br/>
+eg.
 git init
 git add .
 git commit -m "first commit"
