@@ -35,3 +35,9 @@ git branch -M main
 git remote add origin https://github.com/shiv32/Qt5_QML.git
 git push -u origin main
 =================================================
+note -> 
+From new m/c push first clone repo 
+1. git clone https://github.com/shiv32/Qt5_QML.git
+then follow push instructions.
+
+
