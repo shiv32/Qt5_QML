@@ -9,7 +9,7 @@ https://doc.qt.io/qt-5/qtdatavisualization-index.html<br/>
 https://doc.qt.io/qt-5/qtcharts-qmlchart-example.html<br/>
 
 YouTube link --><br/>
-https://www.youtube.com/watch?v=KkMXdSErTpM&list=PLwyfE16Mkbx58rbWFAEk6Qm5PpDKqOtzp<br/>
+https://youtube.com/playlist?list=PLwyfE16Mkbx58rbWFAEk6Qm5PpDKqOtzp<br/>
 
 
 
